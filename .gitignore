@@ -5,8 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-static/img/comic/*.png
-static/pdfs/*.pdf 
+#static/img/comic/*.png
+#static/pdfs/*.pdf 
 
 # Distribution / packaging
 .Python
